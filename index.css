@@ -92,6 +92,7 @@ header{
     letter-spacing: .15em;
     font-size: 1.61em;
     margin: 88px 0 10px 30px;
+    max-height: 5em;
     font-weight: 700;
 }
 .category_items{
